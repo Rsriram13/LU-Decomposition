@@ -52,9 +52,11 @@ print(solution)
 
 ## Output:
 (i) To find the L and U matrix
-![output](<Screenshot 2023-12-16 215012.png>)
+![output](https://github.com/Rsriram13/LU-Decomposition/assets/145742823/94655d88-edd7-4134-aa54-6a39e023b236)
+
 (ii) To find the LU Decomposition of a matrix
-![output](<Screenshot 2023-12-16 213111.png>)
+![output](https://github.com/Rsriram13/LU-Decomposition/assets/145742823/c843b085-e582-4aeb-b951-a9dbd2a7fb9b)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
